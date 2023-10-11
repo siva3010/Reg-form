@@ -1,0 +1,38 @@
+.head{
+    text-align: center;
+}
+.leftside.rightside{
+    height: 80vh;
+    width:50vw;
+}
+.rightside{
+    /* display: flex;
+    flex-direction: column; */
+    padding: 25px;
+}
+@media screen and (min-wisth:768px){
+    .leftside ,.rightside{
+        height: 100vh;
+    }
+    
+}
+.one{
+    margin: 20px;
+}
+.leftside{
+    background: whitesmoke;
+    
+}
+
+.rightside{
+    background: rgb(246, 246, 249);
+}
+
+
+
+.firstnae{
+    width: 50%;
+}
+.control-lable-tpzro{
+
+}
